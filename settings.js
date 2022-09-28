@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
+global.vcardowner = ['94740925284'] //ur owner number
+global.ownername = "Tharuwa official" //ur owner name
+global.ytname = "YT: Tharuwaofficialy YT" //ur yt chanel name
+global.socialm = "Youtube :Tharuwaofficialy YT " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['94714188730']
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.owner = ['94740925284']
+global.ownertag = '94740925284' //ur tag number
+global.botname = '📶 𝗧𝗵𝗮𝗿𝘂𝘄𝗮 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 📶' //ur bot name
+global.linkz = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //ur website to be displayed
+global.botscript = 'https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.themeemoji = "☎" //ur theme emoji
+global.packname = "📶 𝗧𝗵𝗮𝗿𝘂𝘄𝗮 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 📶" //ur sticker watermark packname
+global.author = "📶 𝗧𝗵𝗮𝗿𝘂𝘄𝗮 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 📶" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94714188730'] //ur premium numbers
+global.premium = ['94740930556'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -94,7 +94,15 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [🇼‌🇪‌🇱‌🇨‌🇴‌🇲‌🇪‌ 🇧‌🇴‌🇹‌ 🇬‌🇷‌🇴‌🇺‌🇵‌ 🍁
+
+❮❮ ඔයාලට ඕන සින්දුවක් , ඕන වීඩියෝ එකක් , වගේම තව වැඩ ගොඩක් මේ ගෲප් එකෙන් කරගන්න පුලුවන් ❯❯
+
+❎සමූහයේ නීති රීති❎
+
+☞සාමන්‍ය චැට් ගෲප් එකක් ලෙස බාවිත කිරීමෙන් වලකින්න.(අවශ්ශ්‍ය කාර්‍ය පමනක් සිදුකර ගැන්න.)
+
+☞සමූහය තුල ස්පෑම් බාවිතයෙන් වලකින්න.]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
